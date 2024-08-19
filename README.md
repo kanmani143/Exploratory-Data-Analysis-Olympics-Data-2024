@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Olympics-Data-2024
-1. Introduction
+
 The Paris Olympic 2024 marks a significant event in the world of sports, bringing together athletes from across the globe to compete in various disciplines. This analysis leverages data related to the event, providing insights into several key aspects:
 
 This notebook aims to provide a comprehensive overview of these aspects, offering a deeper understanding of the Paris Olympic 2024.
